@@ -2856,7 +2856,7 @@ iframe.twitter-share-button {
 
 /* line 295, ../sass/base.scss */
 #loading h1 {
-  font-size: 220px;
+  font-size: 500px;
   margin: 90px auto 117px;
   font-weight: 600;
 }
@@ -3006,10 +3006,10 @@ input[type="text"] {
 .page.quote h1,
 .page.story h1 {
   color: #fff;
-  font-size: 56px;
+  font-size: 70px;
   letter-spacing: 1px;
   list-style: none;
-  line-height: 75px;
+  line-height: 80px;
   padding-top: 40px;
 }
 
