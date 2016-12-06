@@ -2207,7 +2207,7 @@ a.startupspop:hover {
   color: #000;
   padding: 70px 80px;
   text-shadow: none;
-  font-family: 'Arvo', 'Georgia', serif;
+  font-family: 'Open Sans Condensed', serif;
   margin: 200px 180px 100px;
 }
 
@@ -2831,7 +2831,7 @@ iframe.twitter-share-button {
 
 /* line 273, ../sass/base.scss */
 #loading {
-  background: #399fd3;
+  background: white;
   position: fixed;
   top: 0px;
   left: 0px;
